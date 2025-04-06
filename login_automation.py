@@ -1,4 +1,4 @@
-pip install selenium
+# Ensure Selenium is installed by running `pip install selenium` in your terminal before executing this script.
 # Import necessary libraries
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
